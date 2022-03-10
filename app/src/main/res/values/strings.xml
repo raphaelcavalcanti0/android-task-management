@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskManagement</string>
+    <string name="no_list">Nenhum elemento na lista.</string>
+</resources>
